@@ -1,4 +1,14 @@
 # 📱 Study Planner Mobile
+![Login Screen](Screenshots/Login.png)
+![Register Screen](Screenshots/Register.png)
+![Dashboard Screen](Screenshots/Dashboard.png)
+![Profile Screen](Screenshots/Profile.png)
+![Update Profile Screen](Screenshots/UpdateProfile.png)
+![Change Password Screen](Screenshots/ChangePassword.png)
+
+
+
+
 
 An Android mobile application built with **Kotlin** that mirrors the web-based Study Planner system. The app integrates with a backend API using **Retrofit** and implements full authentication with **JWT Bearer Tokens**.
 

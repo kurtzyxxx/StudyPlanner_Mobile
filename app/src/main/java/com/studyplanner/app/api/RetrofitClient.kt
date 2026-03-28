@@ -9,7 +9,9 @@ import java.util.concurrent.TimeUnit
 
 object RetrofitClient {
 
-    private const val BASE_URL = "http://10.0.2.2:5000/api/"
+    // Use 10.0.2.2 for Android Emulator, or your PC's LAN IP for physical device
+    // private const val BASE_URL = "http://10.0.2.2:5000/api/"  // Emulator
+    private const val BASE_URL = "http://172.31.9.190:5000/api/"  // Physical device (your PC's IP)
 
     private var retrofit: Retrofit? = null
 
