@@ -3,10 +3,8 @@
 ![Register Screen](Screenshots/Register.png)
 ![Dashboard Screen](Screenshots/Dashboard.png)
 ![Profile Screen](Screenshots/Profile.png)
-![Update Profile Screen](Screenshots/UpdateProfile.png)
-![Change Password Screen](Screenshots/ChangePassword.png)
-
-
+![Update Profile Screen](Screenshots/Update%20profile.png)
+![Change Password Screen](Screenshots/Change%20Password.png)
 
 
 
