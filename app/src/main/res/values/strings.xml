@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Study Planner</string>
+    <string name="logo_text">Study Planner</string>
+
+    <!-- Login -->
+    <string name="login_title">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_verifying">Verifying…</string>
+    <string name="login_no_account">Don\'t have an account? </string>
+    <string name="login_register_link">Register</string>
+    <string name="error_fill_fields">Please fill in all fields</string>
+    <string name="error_invalid_login">Incorrect email or password. Please try again.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+
+    <!-- Register -->
+    <string name="register_title">Register</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_register">Register</string>
+    <string name="register_has_account">Already have an account? </string>
+    <string name="register_login_link">Login</string>
+    <string name="error_passwords_mismatch">Passwords do not match</string>
+    <string name="success_registration">Registration Successful!</string>
+
+    <!-- Dashboard -->
+    <string name="welcome_message">Welcome Back, %1$s!</string>
+    <string name="dashboard_subtitle">Here is what\'s happening with your studies today.</string>
+    <string name="your_subjects">Your Subjects</string>
+    <string name="add_new">+ Add New</string>
+    <string name="quick_stats">Quick Stats</string>
+    <string name="total_tasks">Total Tasks</string>
+    <string name="due_today">Due Today</string>
+    <string name="tasks_format">%1$d Tasks</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Your Profile</string>
+    <string name="profile_subtitle">Manage your personal details and academic info here.</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="uploading">Uploading…</string>
+    <string name="photo_hint">JPG, GIF or PNG. Max size of 5MB.</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="hint_enter_name">Enter full name</string>
+    <string name="username_label">Username: %1$s</string>
+    <string name="email_label">Email: %1$s</string>
+    <string name="readonly_note">*Username and Email cannot be changed.</string>
+    <string name="academic_profile">Academic Profile</string>
+    <string name="hint_school">E.g. State University</string>
+    <string name="hint_major">E.g. Computer Science</string>
+    <string name="hint_bio">Tell us about your study goals…</string>
+    <string name="label_school">School / University</string>
+    <string name="label_major">Major / Course</string>
+    <string name="label_bio">Bio</string>
+    <string name="btn_save_profile">Save Profile</string>
+    <string name="saving">Saving…</string>
+    <string name="security">Security</string>
+    <string name="label_current_password">Current Password</string>
+    <string name="label_new_password">New Password</string>
+    <string name="hint_current_password">Enter current password</string>
+    <string name="hint_new_password">Enter new password</string>
+    <string name="btn_change_password">Change Password</string>
+    <string name="updating">Updating…</string>
+    <string name="error_password_fields">Please fill in both password fields.</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_subjects">Subjects</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- General -->
+    <string name="logout">Logout</string>
+    <string name="coming_soon">Coming soon!</string>
+</resources>
